@@ -47,14 +47,3 @@ $ symfony console doctrine:fixtures:load
 $ symfony server:start -d
 ```
 
-
-
-
-
-**Executing tests**
-
-Run the tests with the following command:
-
-```
-$ bin/phpunit
-```
